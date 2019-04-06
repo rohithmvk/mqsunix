@@ -1,5 +1,4 @@
 package com.infy.mqsunix;
-
 import java.util.Enumeration;
 import javax.jms.BytesMessage;
 import javax.jms.JMSException;
